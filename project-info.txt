@@ -1,0 +1,29 @@
+Project: Simple PHP E-commerce Website
+
+Description:
+This is a simple e-commerce website developed for learning and practice.
+
+Technologies:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+
+Features:
+- User Registration
+- User Login
+- Product Listing
+- Product Details
+- Shopping Cart
+- Wishlist
+- Checkout
+- Order Management
+- Admin Panel
+
+Purpose:
+This project was created to practice frontend development, PHP, MySQL database management, CRUD operations, and e-commerce functionality.
+
+Developer:
+Ariful Islam
